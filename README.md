@@ -1,6 +1,6 @@
 <img src="https://github.com/rahul799/rahul799/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
 
-### Hi there 👋 Rahul Here..
+### Hi there 👋 Dharna Here..
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rahul799.rahul799)
 
